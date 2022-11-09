@@ -31,7 +31,7 @@ In the early days of Roman numerals, the Romans built their numerals from the in
 | 7             | VII           |
 | 15            | XV            |
 | 18            | XVIII         |
-| 22            | XXII          |
+| 22             | XXII          |
 
 We are going to begin writing a function `convertToOldRoman`. When passed an integer between 1 and 3000, this function will return a string containing the proper old Roman Numeral. In other words, `convertToOldRoman(4)` should return the string `'IIII'`. Don't worry about checking whether or not the number passed to the method is between 1 and 3000.
 
